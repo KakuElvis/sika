@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+@theme{
+  --color-heading: #193cb8;
+  --color-card: #65FFDB;
+
+
+}
